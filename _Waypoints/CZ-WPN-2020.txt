@@ -1,0 +1,1151 @@
+[Breclav LKBA]
+08/26 (nezpevněný)
+Radio: 119.655 BŘECLAV RADIO
+
+[Benesov LKBE]
+06/24 (nezpevněný)
+09/27 (nezpevněný)
+Radio: 118.005 BENE RADIO
+
+[Bohunovice LKBO]
+07/25 (nezpevněný)
+Radio: 118.280 BOHUŇOVICE RADIO
+
+[Broumov LKBR]
+Asfaltova draha mimo provoz!
+Mezi 1. a 2. zat. RWY 14L telekom.stozar 47m
+RWY 14.L/32.P 920x18m
+Radio: 123.490 BROUMOV RADIO
+
+[Bubovice LKBU]
+10R/28L (nezpevněný)
+10L/28R (nezpevněný)
+Radio: 134.305 BUBOVICE RADIO
+
+[Cheb LKCB]
+05/23 (nezpevněný)
+06/24 (beton)
+Radio: 122.205 CHEB RADIO
+
+[Ceska Lipa LKCE]
+13.L/31.P 700x40m
+Radio: 123.590 LÍPA RADIO
+
+[Chomutov LKCH]
+Para provoz.
+RWY 04.L/22.L 1200x40m
+RWY 14.L/32.L 830x40m
+Radio: 123.605 CHOMUTOV RADIO
+
+[Medlanky LKCM]
+16/34 (nezpevněný)
+Radio: 122.405 MEDLÁNKY RADIO
+
+[Chrudim LKCR]
+06/24 (nezpevněný)
+Radio: 122.805 CHRUDIM RADIO
+
+[Ceske Budejovice LKCS]
+09/27 (zpevněný)
+Radio: 135,930 Budějovice RADIO
+
+[Chotebor LKCT]
+17/35 (nezpevněný)
+Radio: 122.205 CHOTĚBOŘ RADIO
+
+[Caslav LKCV]
+Nezpevněná RWY 12/30 není v zimním období udržována.
+Unpaved RWY 12/30 is not maintained in winter season.
+13/31 (beton)
+12/30 (tráva)
+TWR: 134,205 ČÁSLAV VĚŽ
+ ČÁSLAV TOWER
+TWR reserve:129,405 ČÁSLAV TOWER
+ ČÁSLAV TOWER
+APP: 130,280 ČÁSLAV APPROACH
+ ČÁSLAV RADAR
+
+[Dvur Kralove LKDK]
+Severně RWY 10/28 je GLD strip 906x61
+RWY 10.P/28.L 846x18m
+Radio: 119,610 DVŮR RADIO
+
+[Erpuzice LKER]
+11/29 (nezpevněný)
+Radio: 123.490 ERPRUŽICE RADIO
+
+[Frydlant LKFR]
+08/26 (nezpevněný)
+Radio: 123.490 FRÝDLANT RADIO
+
+[Havlickuv Brod LKHB]
+11/29 (nezpevněný)
+Radio: 128.905 Brod RADIO
+
+[Horice LKHC]
+RWY 12.LP/30.LP 740x23m
+Radio: 120,315 HOŘICE RADIO
+
+[Hodkovice LKHD]
+Poslední zat. při přiblížení na RWY 01 i 19 v min. výšce 550m AMSL - vedení velmi vys. napětí
+RWY 01.LP/19.LP 980x100m
+Radio: 120.905 HODKOVICE RADIO
+
+[Hradec Kralove LKHK]
+RWY 15R.P/33L.L 800x25m trava
+RWY 15L.L/33R.P 2400x60m beton
+Radio: 122.005 Kral RADIO
+
+[Hranice LKHN]
+05/23 (nezpevněný)
+Radio: 123.510 HRANICE RADIO
+
+[Hosin LKHS]
+06R/24L (nezpevněný)
+06L/24R (zpevněný)
+Radio: 130.205 HOSÍN RADIO
+
+[Horovice LKHV]
+06/24 (zpevněný)
+Radio: 135.580 HOŘOVICE RADIO
+
+[Jaromer LKJA]
+komunikace v predpolí RWY 14 pri vzletu a pristani v min. vysce 15 m
+RWY 14.L/32.P 940x90m
+Radio: 119,105 JAROMĚŘ RADIO
+
+[Jicin LKJC]
+RWY 12.P/30.L 1000x100m
+Radio: 118.080 JIČÍN RADIO
+
+[Jindrichuv Hradec LKJH]
+07L/25R (zpevněný)
+07R/25L (nezpevněný)
+Radio: 123.605 HRADEC RADIO
+
+[Jihlava LKJI]
+10/28 (nezpevněný)
+Radio: 123.490 JIHLAVA RADIO
+
+[Krizanov LKKA]
+14/32 (nezpevněný)
+Radio: 133.155 KŘIŽANOV RADIO
+
+[KBELY LKKB]
+06/24 (zpevněný)
+TWR: 120.880 KBELY VĚŽ
+ KBELY TOWER
+APP: 124.680 KBELY APPROACH
+RAD: 126.760 KBELY PRECISION
+
+[Kladno LKKL]
+12/30
+Radio: 123.480 KLADNO RADIO
+
+[Kromeriz LKKM]
+02/20 (nezpevněný)
+Radio: 122.205 KROMĚŘÍŽ RADIO
+
+[Kolin LKKO]
+03R/21L (nezpevněný)
+03L/21R (nezpevněný)
+Radio: 129,155 KOLÍN RADIO
+
+[Krnov LKKR]
+12/30 (nezpevněný)
+Radio: 122.610 KRNOV RADIO
+
+[Klatovy LKKT]
+09L/27R (nezpevněný)
+09R/27L (nezpevněný)
+Radio: 122.210 KLATOVY RADIO
+
+[KUNOVICE LKKU=HOME]
+02C/20C (zpevněný)
+02R/20L (nezpevněný)
+02L/20R (nezpevněný)
+TWR: 120.105 KUNOVICE VĚŽ
+ TOWER
+Info: 120.105 KUNOVICE INFO
+
+[KARLOVY VARY LKKV]
+11/29 (zpevněný)
+12/30 (nezpevněný)
+TWR: 121.230 KARLOVY VARY VĚŽ
+ KARLOVY VARY TOWER
+ATIS: 118.955 KARLOVY VARY ATIS
+APP: 118.650 KARLOVY VARY APPROACH
+ KARLOVY VARY RADAR
+APP: 119,955 KARLOVY VARY APPROACH
+ KARLOVY VARY RADAR
+APP: 118,375 KARLOVY VARY APPROACH
+ KARLOVY VARY RADAR
+APP: 121,500 KARLOVY VARY APPROACH
+ KARLOVY VARY RADAR
+
+[Kyjov LKKY]
+15/33 (nezpevněný)
+Radio: 130.610 KYJOV RADIO
+
+[Liberec LKLB]
+Západně do RWY 16/34 je GLD strip.
+RWY 16.P/34.L 1020x50m
+Radio: 122.605 LIBEREC RADIO
+
+[Plzen Line LKLN]
+06/24 (zpevněný)
+Radio: 129.005 LÍNĚ RADIO
+
+[Letnany LKLT]
+05L/23R (nezpevněný)
+05R/23L (nezpevněný)
+Radio: 120.335 Letňany RADIO
+TWR: 120,880 KBELY TWR
+
+[Mlada Boleslav LKMB]
+Vzlet RWY 05 a priblizeni RWY 23 je narusena tovarnim kominem DIST 3 km, AGL 200 m, AAL 175 m
+RWY 05.P/23.L 775x100m
+RWY 16.P/34.L 900x100m
+Radio: 123.610 BOLESLAV RADIO
+
+[Mnichovo Hradiste LKMH]
+Min. vyska 4. okr. zatacky je 350 m AMSL.
+Nacvik letu po okruhu ve výšce 150 m AG pouze jizni okruh.
+TWY C, D, E, F a stojánka N jsou uzavřeny pro letecký provoz.
+RWY 08/26 1000x60m tráva
+RWY 07/25 1550x30m asfalt
+Radio: 120,405 HRADIŠTĚ RADIO
+
+[Mikulovice LKMI]
+05/23 (nezpevněný)
+Radio: 123.510 JESENÍK RADIO
+
+[Moravska Trebova LKMK]
+Okruhy provadet na sever.
+Komunikace v predpoli obou drah v min. vysce 15 m
+RWY 08R.L/26L.P 720x60m trava
+RWY 08L.L/26R.P 714x23m asfalt
+Radio: 130.540 TŘEBOVÁ RADIO
+
+[Most LKMO]
+Okruhy směr východ.
+RWY 02.P/20.L 1130x100m
+Radio: 118,760 MOST RADIO
+
+[Marianske Lazne LKMR]
+15/33 (nezpevněný)
+Radio: 120.900 MARIANSKÉ LÁZNĚ RADIO
+
+[OSTRAVA/MOSNOV LKMT]
+04/22 (zpevněný)
+TWR: 120.805 MOŠNOV VĚŽ
+ TOWER
+ATIS: 118.055 MOŠNOV ATIS
+APP: 119,375 OSTRAVA APPROACH
+ OSTRAVA RADAR
+APP: 128,525 OSTRAVA APPROACH
+ OSTRAVA RADAR
+APP: 118,375 OSTRAVA APPROACH
+ OSTRAVA RADAR
+APP: 121,500 OSTRAVA APPROACH
+ OSTRAVA RADAR
+DEL: 118,700 MOŠNOV DELIVERY
+
+[Namest LKNA]
+12/30 (beton)
+TWR: 126,505 NÁMĚŠŤ VĚŽ
+ NÁMĚŠŤ TOWER
+TWR reserve:119,830 NÁMĚŠŤ VĚŽ
+ NÁMĚŠŤ TOWER
+APP: 118,155 NÁMĚŠŤ APPROACH
+ NÁMĚŠŤ RADAR
+
+[Nove Mesto LKNM]
+RWY 08.L/26.P 900x30m
+RWY 18.P/36.L 930x30m
+Radio: 123.405 MĚSTO RADIO
+
+[Olomouc LKOL]
+09L/27R (nezpevněný)
+09R/27L (nezpevněný)
+10/28 (zpevněný)
+Radio: 118.005 OLOMOUC RADIO
+
+[Policka LKPA]
+15/33 (nezpevněný)
+Radio: 122.590 POLIČKA RADIO
+
+[Panensky Tynec LKPC]
+09/27 (zpevněný)
+Radio: 118.580 TÝNEC RADIO
+
+[PARDUBICE LKPD]
+09/27
+TWR: 120.155 PARDUBICE VĚŽ
+ TOWER
+APP: 128,365 PARDUBICE APPROACH
+ PARDUBICE RADAR
+
+[Pribyslav LKPI]
+08/26 (nezpevněný)
+Radio: 123.610 PŘIBYSLAV RADIO
+
+[Prostejov LKPJ]
+12/30 (nezpevněný)
+Radio: 126.905 PROSTĚJOV RADIO
+
+[Letkov LKPL]
+08L/26R (nezpevněný)
+08R/26L (tráva)
+Radio: 130.610 LETKOV RADIO
+
+[Pribram LKPM]
+06R/24L (zpevněný)
+06L/24R (nezpevněný)
+Radio: 118.755 PŘÍBRAM RADIO
+
+[Podhorany LKPN]
+07/25 (nezpevněný)
+13/31 (nezpevněný)
+Radio: 123.590 PODHOŘANY RADIO
+
+[Prerov LKPO]
+06/24 (zpevněný)
+05/23 (nezpevněný)
+Radio: 127.780 PŘEROV RADIO
+
+[PRAHA/RUZYNE LKPR]
+06/24 (zpevněný)
+12/30 (zpevněný)
+TWR: 134,560 RUZYNĚ VĚŽ
+ RUZYNĚ TOWER
+ATIS: 122.160 RUZYNĚ ATIS
+RADVFR: 118.310 RUZYNĚ RADAR
+ RUZYNĚ INFORMATION
+GND: 121.910 RUZYNĚ GROUND
+DEL: 120.060 RUZYNĚ DELIVERY
+RAD: 120,530 PRAHA RADAR
+ PRAHA APPROACH
+RAD: 127.580 PRAHA RADAR
+ PRAHA APPROACH
+RAD: 119.010 RUZYNĚ RADAR
+ RUZYNĚ APPROACH
+FIRE: 121,610 RUZYNĚ FIRE
+
+[Plasy LKPS]
+03/21 (nezpevněný)
+Radio: 123.590 PLASY RADIO
+
+[Rana LKRA]
+PG provoz nad svahem hory Raná.
+Vlevo od RWY 11 GLD strip 720x50
+RWY 11.P/29.L 850x70m
+RWY 05.L/23.P 750x100m
+Radio: 126.855 RANÁ RADIO
+
+[Rakovnik LKRK]
+okruhy na jih, tvar dle VOC
+paralelni provoz na obou drahách povolen
+v ATZ Rakovnik heliport HEMS, provoz vrtulniku
+NW od RWY provoz modelaru
+RWY 09R.P/27L.L 910x20m
+RWY 09.P/27.L 970x90m GLD
+RWY 09L.P/27R.L 910x20m
+Radio: 123.510 RAKOVNÍK RADIO
+
+[Roudnice LKRO]
+Okruhy od města směrem k dálnici.
+RWY 13L.P/31R.L 840x30m
+RWY 13R.P/31L.L 1400x63m
+Radio: 122.205 ROUDNICE RADIO
+
+[Rokycany LKRY]
+09/27 (nezpevněný)
+Radio: 119.660 ROKYCANY RADIO
+
+[Stankov LKSA]
+07/25 (nezpevněný)
+Radio: 123.610 STAŇKOV RADIO
+
+[Stichovice LKSB]
+13/31 (nezpevněný)
+Radio: 120.680 STICHOVICE RADIO
+
+[Skutec LKSK]
+03/21 (nezpevněný)
+13/31 (nezpevněný)
+Radio: 123.510 SKUTEČ RADIO
+
+[Slany LKSN]
+07L/25R (nezpevněný)
+07R/25L (nezpevněný)
+Radio: 122.405 SLANÝ RADIO
+
+[Sobeslav LKSO]
+18/36 (nezpevněný)
+08/26 (nezpevněný)
+Radio: 122.190 SOBĚSLAV RADIO
+
+[Strunkovice LKSR]
+15/33 (nezpevněný)
+Radio: 123.505 STRUNKOVICE RADIO
+
+[Strakonice LKST]
+03/21 (nezpevněný)
+13/31 (nezpevněný)
+Radio: 118,760 STRAKONICE RADIO
+
+[Sumperk LKSU]
+RWY 24 pouze jednosmerna, okruhy prave.
+Nouzove lze pro pristani pouzit RWY 06
+Podel RWY je GLD STRIP 700x45m
+RWY 06.L/24.P 700x90m
+RWY 18/36 680x18m zpevnena
+Radio: 122.605 ŠUMPERK RADIO
+
+[Sazena LKSZ]
+15R/33L (nezpevněný)
+15L/33R (nezpevněný)
+Radio: 119.640 SAZENÁ RADIO
+
+[Tabor LKTA]
+12/30 (nezpevněný)
+16/34 (nezpevněný)
+Radio: 122.610 TÁBOR RADIO
+
+[BRNO/TURANY LKTB]
+09/27 (zpevněný)
+08/26 (nezpevněný)
+TWR: 119.605 TUŘANY VĚŽ
+ TUŘANY TOWER
+ATIS: 131.105 TUŘANY ATIS
+APP: 127,350 BRNO APPROACH
+ BRNO RADAR
+GND: 125.430 TUŘANY GROUND
+APP: 120,555 BRNO APPROACH
+ BRNO RADAR
+APP: 118,375 BRNO APPROACH
+ BRNO RADAR
+APP: 121,500 BRNO APPROACH
+ BRNO RADAR
+
+[Tocna LKTC]
+09/27
+Radio: 123.410 TOČNÁ RADIO
+
+[Tachov LKTD]
+09/27 (nezpevněný)
+Radio: 123.405 TACHOV RADIO
+
+[Touzim LKTO]
+08/26 (nezpevněný)
+Radio: 122.605 TOUŽIM RADIO
+
+[Usti nad Labem LKUL]
+05/23 (nezpevněný)
+Radio: 123,405 ÚSTÍ NAD LABEM RADIO
+
+[Usti nad Orlici LKUO]
+RWY 14.L/32.P 887x100m
+Radio: 122.210 ÚSTÍ RADIO
+
+[Vlasim LKVL]
+13/31 (nezpevněný)
+Radio: 119.655 VLAŠIM RADIO
+
+[Vysoke Myto LKVM]
+Okruhy provadet na jih.
+Vzdusny prostor nad letistem je soucasti MTMA Pardubice
+RWY 12L.P/30R.L 600x18m asfalt
+RWY 12R.P/30L.L 1200x40m tráva
+RWY 14.P/32.L 1000x80m
+Radio: 130.605 MÝTO RADIO
+
+[PRAHA/VODOCHODY LKVO]
+10/28 (zpevněný)
+11/29 (tráva)
+TWR: 133.080 VODOCHODY VĚŽ
+ TOWER
+APP: 127.480 VODOCHODY RADAR
+RADIM: 123,030 VODOCHODY RADIM
+
+[Velke Porici LKVP]
+Okruh zkosen podle hranice.
+RWY 09L.P/27R.L hronovska 760x30m
+RWY 09R.P/27L.L nachodska 550x30m
+Radio: 122.190 HRONOV RADIO
+
+[Vrchlabi LKVR]
+RWY 11.P/29.L 840x125m
+Radio: 125.330 VRCHLABÍ RADIO
+
+[Vyskov LKVY]
+02/20 (nezpevněný)
+Radio: 120.330 VYŠKOV RADIO
+
+[Zabreh LKZA]
+10R/28L (nezpevněný)
+Radio: 123.605 ZÁBŘEH RADIO
+
+[Zbraslavice LKZB]
+15/33 (nezpevněný)
+Radio: 126.630 ZBRASLAVICE RADIO
+
+[Zatec Macerka LKZD]
+RWY 11.P/29.L 1120x40m
+Radio: 122,810 ŽATEC RADIO
+
+[Zlin LKZL]
+17L/35R (asfalt)
+17R/35L (tráva)
+Radio: 118,755 Zlín Radio
+
+[Zamberk LKZM]
+MTMA Pardubice 6km W
+RWY 13.P/31.L 725x100m
+Radio: 122,610 ŽAMBERK RADIO
+
+[Znojmo LKZN]
+08/26 (nezpevněný)
+Radio: 130.590 ZNOJMO RADIO
+
+[Poprad-Tatry LZTT]
+Tatry TWR 121.350
+ATIS 133.130
+TRAFFIC 122.065
+
+[Zilina LZZI]
+Žilina TWR 118.400
+TRAFFIC 123.685
+
+[LZDB]
+Dubnica Traffic 122.340
+
+[LZDV]
+Dubová TRAFFIC 123.930
+
+[LZHL]
+Holíč TRAFFIC 123.680
+
+[LZJS]
+Jasna TRAFFIC 130.130
+
+[LZKC]
+Kamenica TRAFFIC 122.605
+
+[LZLU]
+Lučenec TRAFFIC 123.060
+
+[LZMA]
+Martin TRAFFIC 120.040
+
+[Nitra LZNI]
+Nitra TRAFFIC 123.405
+
+[Nove Zamky LZNZ]
+Nové Zámky TRAFFIC 120.055
+
+[Ocova LZOC]
+Očová TRAFFIC 123.605
+
+[Male Bielice LZPT]
+Partizánske TRAFFIC 123.935
+
+[Presov LZPW]
+Prešov MTWR 135.500
+TRAFFIC 135.500
+
+[Ruzomberok LZRU]
+Ružomberok TRAFFIC 123.030
+
+[Raznany LZRY]
+Ražňany TRAFFIC 122.135
+
+[Senica LZSE]
+Senica TRAFFIC 123.605
+
+[Svidnik LZSK]
+Svidník TRAFFIC 123.405
+
+[Spisska Nova Ves LZSV]
+Spišská Nová Ves TRAFFIC 123.505
+
+[Surany LZSY]
+Šurany TRAFFIC 123.785
+
+[Jivka ULADRS]
+Na panelove stojance slozene baliky
+RWY 15/33 cca. 350m
+
+[Brusne ULCHRO]
+Při příletu informovat velkým okruhem modeláře o přistání
+Nepřelétávat Chlum (koně)
+Dráhu 28 používat jen při velmi silném NW větru (vyšší terén + stožár mobilní sítě v sestupové rovině)
+Tel: 777521122, 603334920
+RWY 10/28 550x45m
+
+[Ceske Mezirici ULCMEZ]
+RWY 10/28 420x25m
+
+[Velky Trebesov ULCSKA]
+Pohyb motorkaru po plose, casty vycvik na UL i MOTO
+RWY 07/25 550x15m asfalt
+
+[Trutnov ULKYJE]
+Pozor les
+RWY 04/22 550x50m
+
+[Rychnov nad Kneznou ULVAMB]
+RWY 03/21 360x35m
+
+[Zalonov ULZALO]
+RWY 01/19 380x50m
+
+[Helvikovice ULZAMB]
+RWY 18/36 590x50m
+
+[Kunvald ULZBUD]
+U lesa.
+RWY 07/25 470x60m
+
+[Borek LKBORE]
+Neveřejná plocha SLZ
+17/35 (tráva)
+Radio: 118,740 BOREK RADIO
+
+[Brtov LKBRTO]
+Neveřejná plocha SLZ
+10/28 (tráva)
+Radio: 125,830 BRŤOV RADIO
+
+[Budkovice LKBUDK]
+Neveřejná plocha SLZ
+12/30 (tráva)
+Radio: 135,330 BUDKOVICE RADIO
+
+[Bynovec LKBYNO]
+Neveřejná plocha SLZ
+07/25 (tráva)
+Radio: 120,330 BYNOVEC RADIO
+
+[Bystrice nad Pernstejnem LKBYST]
+Neveřejná plocha SLZ
+16/34 (tráva)
+Radio: 125,830 BYSTŘICE RADIO
+
+[Castkovice LKCAST]
+Neveřejná plocha SLZ
+10/28 (asfalt)
+Radio: 120,330 ČÁSTKOVICE RADIO
+
+[Charvatce LKCHAR]
+160m pred prahem 07 je telf. sloup 4 m
+Neveřejná plocha SLZ
+RWY 08.L/26.P 400x20m
+RWY 07.L/25.P 263x15m
+Radio: 125,830 CHARVÁTCE RADIO
+
+[Chocen LKCHOC]
+Veřejná plocha SLZ
+15/33 (tráva)
+Radio: 120,685 CHOCEŇ RADIO
+
+[Chotec LKCHOT]
+Severně RWY les - nebezpečí závětří nebo turbulence!
+Veřejná plocha SLZ
+RWY 09.P/27.L 600x30m
+Radio: 125,830 CHOTEČ RADIO
+
+[Chotesov LKCHOV]
+Veřejná plocha SLZ
+09/27 (asfalt)
+Radio: 125,830 CHOTĚŠOV RADIO
+
+[Chrastany LKCHRA]
+Neveřejná plocha SLZ
+10/28 (asfalt)
+Radio: 132,210 CHOTO RADIO
+
+[Chribska LKCHRI]
+Neveřejná plocha SLZ
+10/28 (tráva)
+Radio: 125,830 CHŘIBSKÁ RADIO
+
+[Chvojenec LKCHVO]
+Neveřejná plocha SLZ
+18/36 (tráva)
+Radio: 125,830 CHVOJENEC RADIO
+
+[Detrichov Oaza LKDETR]
+Neveřejná plocha SLZ
+14/32 (tráva)
+Radio: 125,830 DĚTŘICHOV RADIO
+
+[Doudleby LKDOUD]
+Neveřejná plocha SLZ
+07/25 (tráva)
+Radio: 125,830 DOUDLEBY RADIO
+
+[Druzcov u Lipy LKDRUZ]
+Pojíždět pouze po RWY a pojížděcích dráhách. Pozor na díry od divokých prasat.
+Neveřejná plocha SLZ
+RWY 17R/35.L 440x20m
+Radio: 125,830 DRUZCOV RADIO
+
+[Dusniky LKDUSN]
+Veřejná plocha SLZ
+17/35 (tráva)
+Radio: 125,830 DUŠNÍKY RADIO
+
+[Hate Excalibur LKEXCA]
+Neveřejná plocha SLZ
+12/30 (tráva)
+Radio: 122,805 HATĚ RADIO
+
+[Hat u Hlucina LKHATH]
+Neveřejná plocha SLZ
+01/19 (tráva)
+Radio: 125,830 HAŤ RADIO
+
+[Hradcany LKHRAD]
+Okruhy na sever k Mimoni.
+Navijak provoz paraglidistu!
+Nepreletavat Hradcanske rybniky.
+Neletat nad prirodni rezervaci mene nez 300m
+Neveřejná plocha SLZ
+RWY 09L.L/27R.P 900x60m beton
+RWY 09R.L/27L.P 900x20m trava
+Radio: 134,815 HRADČANY RADIO
+
+[Kejzlice LKKEJZ]
+Neveřejná plocha SLZ
+17/35 (tráva)
+Radio: 134,815 KEJŽLICE RADIO
+
+[Kotvrdovice LKKOTV]
+Veřejná plocha SLZ
+10/28 (tráva)
+Radio: 123,480 KOTVRDOVICE RADIO
+
+[Kramolin LKKRAM]
+Veřejná plocha SLZ
+09/27 (asfalt)
+Radio: 122,405 KRAMOLÍN RADIO
+
+[Krizenec LKKRIZ]
+Neveřejná plocha SLZ
+08/26 (asfalt)
+Radio: 122,790 KŘÍŽENEC RADIO
+
+[Kvasiny LKKVAS]
+Plocha pod LKTRA57 Rychnov
+Neveřejná plocha SLZ
+RWY 12.L/30.P 670x25m
+Radio: 125,830 KVASINY RADIO
+
+[Letovice LKLETO]
+Veřejná plocha SLZ
+16/34 (tráva)
+Radio: 118,740 LETOVICE RADIO
+
+[Liban LKLIBA]
+Neveřejná plocha SLZ
+07/25 (tráva)
+Radio: 125,830 LIBÁŇ RÁDIO
+
+[Lomnice nad Popelkou LKLOMN]
+Provoz modelářů. Pojíždět W (západně) od RWY.
+Neveřejná plocha SLZ
+RWY 14.L/32.P 515x25m
+Radio: 118,255 LOMNICE RADIO
+
+[Loucen LKLOUC]
+Neveřejná plocha SLZ
+17/35 (tráva)
+Radio: 125,830 LOUČEŇ RADIO
+
+[Luhacovice LKLUHA]
+Lety výhradně PPR!
+Okruh min. ALT 2200/1000AGL
+! Asfaltová plocha NENÍ určena pro provoz letadel
+Nepřelétávat statek v ose.
+Severně od RWY je vedení velmi vysokého napětí.
+Neveřejná plocha SLZ
+RWY 02.L/20.P 570x23m
+Radio: 125,285 LUHAČOVICE RADIO
+
+[Milovice LKMILO]
+Neveřejná plocha SLZ
+09/27 (tráva)
+Radio: 130,540 MILOVICE RADIO
+
+[Miroslav AirCon LKMIRA]
+Veřejná plocha SLZ
+12/30 (tráva)
+Radio: 120,665 AIRCON RADIO
+
+[Miroslav LKMIRO]
+Veřejná plocha SLZ
+18/36 (tráva)
+Radio: 125,830 MIROSLAV RADIO
+
+[Mistek LKMIST]
+Neveřejná plocha SLZ
+05/23 (tráva)
+16/34 (tráva)
+Radio: 122,590 MÍSTEK RADIO
+
+[Mlada LKMLAD]
+Neveřejná plocha SLZ
+08/26 (tráva)
+Radio: 125,830 MLADÁ RADIO
+
+[Nachod LKNACH]
+RWY 13 pouze vzlet, RWY 31 pouze pristani.
+Pozor na elektricky ohradnik.
+Pri silnejsim vetru turbulence.
+Neveřejná plocha SLZ
+RWY 13.P/31.L 630x25m
+RWY 09.P/27.L 320x22m
+Radio: 130,560 NÁCHOD RADIO
+
+[Napajedla LKNAPA]
+Neveřejná plocha SLZ
+06/24 (tráva)
+Radio: 125,830 NAPAJEDLA RADIO
+
+[Nova Vcelnice LKNVCE]
+Neveřejná plocha SLZ
+18/36 (tráva)
+Radio: 125,830 VČELNICE RADIO
+
+[Nymburk LKNYMB]
+Neveřejná plocha SLZ
+09/27 (asfalt)
+Radio: 123,465 NYMBURK RADIO
+
+[Opava LKOPAV]
+Neveřejná plocha SLZ
+10/28 (tráva)
+Radio: 125,830 OPAVA RADIO
+
+[Osiciny LKOSIC]
+Neveřejná plocha SLZ
+18/36 (tráva)
+Radio: 125,830 OSIČINY RADIO
+
+[Ostrov LKOSTR]
+Neveřejná plocha SLZ
+07/25 (tráva)
+Radio: 125,830 OSTROV RADIO
+
+[Velke Pavlovice LKPAVL]
+Neveřejná plocha SLZ
+16/34 (tráva)
+Radio: 130,555 PAVLOVICE RADIO
+
+[Pisek - Krasovice LKPISK]
+Neveřejná plocha SLZ
+16/34 (asfalt)
+Radio: 119,415 PÍSEK RADIO
+
+[Horni Pocaply LKPOCA]
+Neveřejná plocha SLZ
+13/31 (tráva)
+Radio: 125,830 POČAPLY RADIO
+
+[Horni Prim LKPRIM]
+Neveřejná plocha SLZ
+09/27 (tráva)
+Radio: 125,830 PŘÍM RADIO
+
+[Rams LKRAMS]
+Neveřejná plocha SLZ
+RWY 13.L/31.P 560x20m
+Radio: 125,830 RAMŠ RADIO
+
+[Slusovice LKSLUS]
+Neveřejná plocha SLZ
+RWY 04.L/22.P 310x12m
+Radio: 120,005 SLUŠOVICE RADIO
+
+[Steti LKSTET]
+Neveřejná plocha SLZ
+14/32 (tráva)
+Radio: 125,830 ŠTĚTÍ RADIO
+
+[Stipa LKSTIP]
+Nepřelétávat obce Kramolín u Kojákovic, Vlachovice, Lhotu u Vlachovic a chatovou oblast.
+Nepřelétávat 2 km západně ZOO Lešná.
+Severně od RWY je vedení velmi vysokého napětí.
+Neveřejná plocha SLZ
+RWY 09.P/27.L 400x15m
+Radio: 122,805 ŠTÍPA RADIO
+
+[Straznice LKSTRZ]
+Neveřejná plocha SLZ
+05/23 (tráva)
+15/33 (tráva)
+Radio: 125,830 STRÁŽNICE RADIO
+
+[Teplice LKTEPL]
+600 m vychodne vodojem do vysky 383m
+Veřejná plocha SLZ
+RWY 11.P/29.L 400x20m
+RWY 18.P/36.L 480x35m
+Radio: 122,410 TEPLICE RADIO
+
+[Terezin LKTERE]
+100 m od RWY 01 je neoznačené dvojí nadzemní vedení vysokého napětí.
+Plocha leží pod TMA V Praha.
+2,2 km ENE je neregistrovaná plocha SLZ Litoměřice.
+Neveřejná plocha SLZ
+RWY 01.L/19.P 420x15m
+Radio: 125,830 TEREZÍN RADIO
+
+[Trutnov LKTRUT]
+Jednosmerna RWY, velky sklon.
+17 jen vzlet P.
+35 jen pristani P.
+Pri silnejsim W vetru zavetri.
+Neveřejná plocha SLZ
+RWY 17.P/35.P 450x25m
+Radio: 125,830 TRUTNOV RADIO
+
+[Vratkov LKVRAT]
+Neveřejná plocha SLZ
+11/29 (tráva)
+Radio: 125,830 VRÁTKOV RADIO
+
+[Banov LKBANO]
+Plocha SLZ neveřejná
+15/33 (asfalt)
+Radio: 125,090 BÁNOV RADIO
+
+[Bojkovice LKBOJK]
+Plocha SLZ neveřejná
+07/25 (tráva)
+Radio: 125,830 BOJKOVICE
+
+[Boleradice LKBOLE]
+Plocha SLZ neveřejná
+09/27 (tráva)
+Radio: 125.830 BOLERADICE
+
+[Boritov LKBORI]
+Plocha SLZ neveřejná
+02/20 (tráva)
+Radio: 125.830 BOŘITOV
+
+[Borovnik LKBORO]
+Plocha SLZ neveřejná
+12L/30R (tráva)
+12R/30L (tráva)
+Radio: 125.830 BOROVNÍK
+
+[Borsice LKBORS]
+Plocha SLZ neveřejná
+16/34 (asfalt)
+Radio: 125.830 BORŠICE
+
+[Brezi LKBREZ]
+Plocha SLZ neveřejná
+12/30 (tráva)
+Radio: 125,830 BŘEZÍ
+
+[Buranos Aires LKBURA]
+Plocha SLZ neveřejná
+09/27 (tráva)
+Radio: 125.830 BURANOS
+
+[Cesky Dub LKCDUB]
+Plocha SLZ neveřejná
+17/35 (tráva)
+Radio: 125,830 DUB
+
+[Ceska Trebova LKCTRE]
+Plocha SLZ neveřejná
+15/33 (tráva)
+Radio: 125.830 TŘEBOVÁ
+
+[Dacice LKDACI]
+Plocha SLZ neveřejná
+14/32 (tráva)
+Radio: 125.830 DAČICE
+
+[Frymburk LKFRYM]
+Plocha SLZ neveřejná
+06/24 (tráva)
+Radio: 125,830 FRYMBURK
+
+[Slezska Harta LKHART]
+Plocha SLZ neveřejná
+12/30 (tráva)
+Radio: 125,830 HARTA
+
+[Hory LKHORY]
+Plocha SLZ neveřejná
+07/25 (tráva)
+Radio: 125,830 HORY
+
+[Jehnedi LKJEHN]
+Plocha SLZ neveřejná
+09/27 (tráva)
+Radio: 125.830 JEHNĚDÍ RADIO
+
+[Praha Jenec LKJENE]
+Plocha SLZ neveřejná
+05/23 (tráva)
+
+[Jiricky LKJIRI]
+Plocha SLZ neveřejná
+16/34 (tráva)
+Radio: 125.830 JIŘIČKY
+
+[Kaplice LKKAPL]
+Plocha SLZ neveřejná
+08/26 (tráva)
+Radio: 125.830 KAPLICE
+
+[Kosice u Tabora LKKOSI]
+Plocha SLZ neveřejná
+01/19 (tráva)
+Radio: 125,830 KOŠICE
+
+[Kravi hora LKKRAV]
+Plocha SLZ neveřejná
+06/24 (tráva)
+Radio: 130,555 KRAVÍ HORA RADIO
+
+[Kunetice LKKUNE]
+Plocha SLZ neveřejná
+05/23 (tráva)
+Radio: 125.830 KUNĚTICE
+
+[Litomerice LKLMER]
+Plocha SLZ neveřejná
+10/28 (tráva)
+Radio: 125.830 LITOMĚŘICE
+
+[Lochousice LKLOCH]
+Plocha SLZ neveřejná
+10/28 (tráva)
+Radio: 125,830 LOCHOUSICE
+
+[Moravsky Beroun LKMBER]
+Plocha SLZ neveřejná
+08/26 (asfalt)
+Radio: 125,830 BEROUN
+
+[Zvole Western LKMLYN]
+Plocha SLZ neveřejná
+02/20 (tráva)
+17/35 (tráva)
+35/17 (tráva)
+Radio: 125,830 ZVOLE
+
+[Panosi Ujezd LKPANO]
+Plocha SLZ neveřejná
+09/27 (tráva)
+Radio: 125,830 ÚJEZD
+
+[Pencin LKPENC]
+Plocha SLZ neveřejná
+15/33 (tráva)
+Radio: 125,830 PĚNČÍN
+
+[Plesnice LKPLES]
+Plocha SLZ neveřejná
+09/27 (asfalt)
+Radio: 125.830 PLEŠNICE
+
+[Polepy LKPOLE]
+Plocha SLZ neveřejná
+01/19 (tráva)
+06/24 (tráva)
+Radio: 125.830 POLEPY
+
+[Rabi LKRABI]
+Plocha SLZ neveřejná
+07/25 (tráva)
+Radio: 125,830 RABÍ
+
+[Radovesice LKRADO]
+Plocha SLZ neveřejná
+11/29 (tráva)
+29/11 (tráva)
+Radio: 125,830 RADOVESICE
+
+[Ricany LKRICA]
+Plocha SLZ neveřejná
+09/27 (tráva)
+Radio: 125.830 ŘÍČANY
+
+[Rohozec LKROHO]
+Plocha SLZ neveřejná
+05/23 (tráva)
+Radio: 125.830 ROHOZEC
+
+[Sazava LKSAZA]
+Plocha SLZ neveřejná
+09/27 (tráva)
+Radio: 125.830 SÁZAVA
+
+[Sazomin LKSAZO]
+Plocha SLZ neveřejná
+13/31 (tráva)
+Radio: 125.830 SAZOMÍN
+
+[Sedliste LKSEDL]
+Plocha SLZ neveřejná
+17/35 (tráva)
+35/17 (tráva)
+Radio: 125,830 SEDLIŠTĚ
+
+[Skudly LKSKUD]
+Plocha SLZ neveřejná
+07/25 (tráva)
+Radio: 125.830 ŠKUDLY
+
+[Studenec LKSTUD]
+Plocha SLZ neveřejná
+11/29 (tráva)
+Radio: 125,830 STUDENEC
+
+[Sumvald LKSUMV]
+Plocha SLZ neveřejná
+05/23 (tráva)
+Radio: 125,830 ŠUMVALD
+
+[Trebic LKTREB]
+Plocha SLZ neveřejná
+11/29 (tráva)
+Radio: 125.830 TŘEBÍČ
+
+[Trnavka LKTRNA]
+Plocha SLZ neveřejná
+07/25 (tráva)
+Radio: 125.830 TRNÁVKA
+
+[Veseli u Prelouce LKVESE]
+Plocha SLZ neveřejná
+08/26 (tráva)
+26/08 (tráva)
+17/35 (tráva)
+Radio: 125,830 VESELÍ
+
+[Vsen LKVSEN]
+Plocha SLZ neveřejná
+13/31 (tráva)
+Radio: 125,830 VŠEŇ
+
+[Zahori LKZAHO]
+Plocha SLZ neveřejná
+06/24 (tráva)
+Radio: 125.830 ZÁHOŘÍ
+
+[Zelec LKZELE]
+Plocha SLZ neveřejná
+18/36 (tráva)
+Radio: 125,830 ŽELEČ
+
