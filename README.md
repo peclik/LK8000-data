@@ -8,6 +8,8 @@
 * Mapy jsou vytvořené z OpenStreetMap, licence k datům dle "Open Data Commons
   Open Database License", viz <https://www.openstreetmap.org/copyright>
 
+<!-- -->
+
 * `_Maps/*.dem` je topografie území, tj. výšky terénu
     * číslo `100m`, `200m` v názvu označuje rozlišení (přesnost)
 * `_Maps/*.lkm` jsou topologie (řeky, silnice, koleje, města)
@@ -41,6 +43,8 @@
 * V LK8000 **nastavit zobrazení waypoints pomocí ICAO kódu**
   (systémová nastavení č. `3 Zobrazení mapy`, `Názvy` = `ICAO Code`)
 * Soubory obsahují i některé body pro Slovensko
+
+<!-- -->
 
 * `_Waypoints\CZ-WPN-2020.txt` - poznámky k bodům (frekvence, dráhy, okruhy apod.)
 * `_Waypoints\CZ-WPT-ADPG-2020.cup` - letiště, ULL a nouzové plochy, PG prostory
