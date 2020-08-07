@@ -2,6 +2,10 @@
 
 --------------------------------------------------------------------------------
 
+## Stažení
+
+* <https://github.com/peclik/LK8000-data/releases>
+
 ## Mapy
 
 * Soubory map jsou velké - určené pro telefony s Androidem (na starých PDA nebudou fungovat)
@@ -69,6 +73,19 @@
 
 --------------------------------------------------------------------------------
 
+## Licence
+
+* Mapy jsou vytvořené z OpenStreetMap, licence k datům dle "Open Data Commons
+  Open Database License", viz <https://www.openstreetmap.org/copyright>
+
+
+## Statistika stažení
+
+* [1](https://hanadigital.github.io/grev/?user=peclik&repo=LK8000-data)
+* [2](https://somsubhra.com/github-release-stats/?username=peclik&repository=LK8000-data)
+
+
 ## Změny
 
 * 07.08.2020 - první vydání
+
