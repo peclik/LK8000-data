@@ -88,4 +88,4 @@
 ## Změny
 
 * 07.08.2020 - první vydání
-
+* 01.05.2021 - aktualizace dle AisView
