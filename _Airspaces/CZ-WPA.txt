@@ -1,5 +1,5 @@
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around AD
 
@@ -14,7 +14,7 @@ AC A
 AN ATZ EDDB
 AL SFC
 AH SFC
-V X=52:22.740 N 013:30.040 E
+V X=52:22.730 N 013:30.040 E
 DC 3 *NM
 
 AC A
@@ -28,21 +28,21 @@ AC A
 AN ATZ EDDE
 AL SFC
 AH SFC
-V X=50:58.770 N 010:57.480 E
+V X=50:58.780 N 010:57.480 E
 DC 3 *NM
 
 AC A
 AN ATZ EDDM
 AL SFC
 AH SFC
-V X=48:21.220 N 011:47.170 E
+V X=48:21.230 N 011:47.170 E
 DC 3 *NM
 
 AC A
 AN ATZ EDDN
 AL SFC
 AH SFC
-V X=49:29.910 N 011:04.680 E
+V X=49:29.920 N 011:04.680 E
 DC 3 *NM
 
 AC A
@@ -63,21 +63,21 @@ AC A
 AN ATZ EPKK
 AL SFC
 AH SFC
-V X=50:04.640 N 019:47.080 E
+V X=50:04.670 N 019:47.080 E
 DC 3 *NM
 
 AC A
 AN ATZ EPKT
 AL SFC
 AH SFC
-V X=50:28.440 N 019:04.800 E
+V X=50:28.460 N 019:04.800 E
 DC 3 *NM
 
 AC A
 AN ATZ EPLL
 AL SFC
 AH SFC
-V X=51:43.300 N 019:23.880 E
+V X=51:43.320 N 019:23.880 E
 DC 3 *NM
 
 AC A
@@ -112,14 +112,14 @@ AC A
 AN ATZ LHBP
 AL SFC
 AH SFC
-V X=47:26.350 N 019:15.720 E
+V X=47:26.370 N 019:15.720 E
 DC 3 *NM
 
 AC A
 AN ATZ LHPR
 AL SFC
 AH SFC
-V X=47:37.460 N 017:48.830 E
+V X=47:37.470 N 017:48.830 E
 DC 3 *NM
 
 AC A
@@ -224,7 +224,7 @@ AC A
 AN ATZ LKFR
 AL SFC
 AH SFC
-V X=49:35.360 N 018:22.750 E
+V X=49:35.370 N 018:22.750 E
 DC 3 *NM
 
 AC A
@@ -259,7 +259,7 @@ AC A
 AN ATZ LKHN
 AL SFC
 AH SFC
-V X=49:32.760 N 017:42.270 E
+V X=49:32.770 N 017:42.270 E
 DC 3 *NM
 
 AC A
@@ -336,7 +336,7 @@ AC A
 AN ATZ LKKR
 AL SFC
 AH SFC
-V X=50:04.500 N 017:41.330 E
+V X=50:04.470 N 017:41.720 E
 DC 3 *NM
 
 AC A
@@ -483,7 +483,7 @@ AC A
 AN ATZ LKPO
 AL SFC
 AH SFC
-V X=49:25.550 N 017:24.290 E
+V X=49:25.560 N 017:24.290 E
 DC 3 *NM
 
 AC A
@@ -763,21 +763,21 @@ AC A
 AN ATZ LZSL
 AL SFC
 AH SFC
-V X=48:38.270 N 019:08.050 E
+V X=48:38.280 N 019:08.050 E
 DC 3 *NM
 
 AC A
 AN ATZ LZTT
 AL SFC
 AH SFC
-V X=49:04.380 N 020:14.470 E
+V X=49:04.420 N 020:14.470 E
 DC 3 *NM
 
 AC A
 AN ATZ LZZI
 AL SFC
 AH SFC
-V X=49:13.990 N 018:36.820 E
+V X=49:14.000 N 018:36.820 E
 DC 3 *NM
 
 AC A
@@ -914,59 +914,52 @@ V X=48:27.183 N 017:31.817 E
 DC 3 *NM
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around DME
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around Emerg
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around Heli
 
-AC A
-AN ATZ H Chotouň
-AL SFC
-AH SFC
-V X=50:03.550 N 014:57.460 E
-DC 3 *NM
-
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around Hills
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around IFR
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around NDB
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around Obstacles
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around Other
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around Other2
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around PG
 
@@ -974,14 +967,14 @@ AC B
 AN PG Cukrák
 AL SFC
 AH SFC
-V X=49:56.280 N 014:20.120 E
+V X=49:56.290 N 014:20.120 E
 DC 0.5 *NM
 
 AC B
 AN PG Doubrava
 AL SFC
 AH SFC
-V X=49:25.930 N 013:12.180 E
+V X=49:25.930 N 013:12.190 E
 DC 0.5 *NM
 
 AC B
@@ -1002,14 +995,14 @@ AC B
 AN PG Kamenec
 AL SFC
 AH SFC
-V X=50:04.850 N 017:08.280 E
+V X=50:04.850 N 017:08.290 E
 DC 0.5 *NM
 
 AC B
 AN PG Klatovy
 AL SFC
 AH SFC
-V X=49:13.980 N 013:32.750 E
+V X=49:13.990 N 013:32.750 E
 DC 0.5 *NM
 
 AC B
@@ -1037,7 +1030,7 @@ AC B
 AN PG Lysá hora
 AL SFC
 AH SFC
-V X=50:45.050 N 015:29.430 E
+V X=50:45.050 N 015:29.440 E
 DC 0.5 *NM
 
 AC B
@@ -1051,7 +1044,7 @@ AC B
 AN PG Mravenečník
 AL SFC
 AH SFC
-V X=50:04.280 N 017:08.730 E
+V X=50:04.280 N 017:08.740 E
 DC 0.5 *NM
 
 AC B
@@ -1072,7 +1065,7 @@ AC B
 AN PG Pláň
 AL SFC
 AH SFC
-V X=50:42.370 N 015:37.080 E
+V X=50:42.370 N 015:37.090 E
 DC 0.5 *NM
 
 AC B
@@ -1100,14 +1093,14 @@ AC B
 AN PG Radobýl
 AL SFC
 AH SFC
-V X=50:31.800 N 014:05.580 E
+V X=50:31.800 N 014:05.590 E
 DC 0.5 *NM
 
 AC B
 AN PG Raná
 AL SFC
 AH SFC
-V X=50:24.420 N 013:46.320 E
+V X=50:24.410 N 013:46.310 E
 DC 0.5 *NM
 
 AC B
@@ -1121,14 +1114,14 @@ AC B
 AN PG Stolová hora
 AL SFC
 AH SFC
-V X=49:30.800 N 018:17.820 E
+V X=49:30.800 N 018:17.810 E
 DC 0.5 *NM
 
 AC B
 AN PG Svatobor
 AL SFC
 AH SFC
-V X=49:14.220 N 013:29.320 E
+V X=49:14.210 N 013:29.320 E
 DC 0.5 *NM
 
 AC B
@@ -1163,21 +1156,21 @@ AC B
 AN PG Čeladná
 AL SFC
 AH SFC
-V X=49:33.180 N 018:18.780 E
+V X=49:33.190 N 018:18.790 E
 DC 0.5 *NM
 
 AC B
 AN PG Černá hora
 AL SFC
 AH SFC
-V X=50:39.020 N 015:44.280 E
+V X=50:39.020 N 015:44.290 E
 DC 0.5 *NM
 
 AC B
 AN PG Čertova hora
 AL SFC
 AH SFC
-V X=50:45.720 N 015:25.850 E
+V X=50:45.710 N 015:25.850 E
 DC 0.5 *NM
 
 AC B
@@ -1195,7 +1188,7 @@ V X=49:10.330 N 013:12.620 E
 DC 0.5 *NM
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around PGZ
 
@@ -1210,7 +1203,7 @@ AC B
 AN PGZ Hradčany
 AL SFC
 AH SFC
-V X=50:37.170 N 014:43.970 E
+V X=50:37.160 N 014:43.970 E
 DC 1 *NM
 
 AC B
@@ -1228,13 +1221,6 @@ V X=49:06.300 N 015:28.430 E
 DC 1 *NM
 
 AC B
-AN PGZ Nechranice
-AL SFC
-AH SFC
-V X=50:20.350 N 013:24.970 E
-DC 1 *NM
-
-AC B
 AN PGZ Niva
 AL SFC
 AH SFC
@@ -1245,21 +1231,28 @@ AC B
 AN PGZ Radkovice u Budče
 AL SFC
 AH SFC
-V X=49:05.670 N 015:38.130 E
+V X=49:05.660 N 015:38.140 E
 DC 1 *NM
 
 AC B
 AN PGZ Tchořovice
 AL SFC
 AH SFC
-V X=49:25.920 N 013:47.800 E
+V X=49:25.910 N 013:47.800 E
+DC 1 *NM
+
+AC B
+AN PGZ Třeboň
+AL SFC
+AH SFC
+V X=48:59.420 N 014:45.110 E
 DC 1 *NM
 
 AC B
 AN PGZ Vidlatá Seč
 AL SFC
 AH SFC
-V X=49:49.900 N 016:12.570 E
+V X=49:49.900 N 016:12.560 E
 DC 1 *NM
 
 AC B
@@ -1270,26 +1263,19 @@ V X=49:26.300 N 014:37.280 E
 DC 1 *NM
 
 AC B
-AN PGZ Újezd
-AL SFC
-AH SFC
-V X=49:31.370 N 015:51.200 E
-DC 1 *NM
-
-AC B
 AN PGZ Černiv
 AL SFC
 AH SFC
-V X=50:26.780 N 014:02.520 E
+V X=50:26.780 N 014:02.510 E
 DC 1 *NM
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around Para
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around SLZ
 
@@ -1304,7 +1290,7 @@ AC B
 AN LKBRTO (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:24.650 N 016:29.970 E
+V X=49:24.650 N 016:29.960 E
 DC 1 *NM
 
 AC B
@@ -1318,7 +1304,7 @@ AC B
 AN LKBYNO (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:49.320 N 014:16.280 E
+V X=50:49.310 N 014:16.280 E
 DC 1 *NM
 
 AC B
@@ -1353,7 +1339,7 @@ AC B
 AN LKCHOT (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:26.030 N 015:31.830 E
+V X=50:26.030 N 015:31.840 E
 DC 1 *NM
 
 AC B
@@ -1367,14 +1353,14 @@ AC B
 AN LKCHRA (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:03.520 N 014:55.380 E
+V X=50:03.520 N 014:55.390 E
 DC 1 *NM
 
 AC B
 AN LKCHRI (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:51.480 N 014:28.020 E
+V X=50:51.490 N 014:28.010 E
 DC 1 *NM
 
 AC B
@@ -1388,7 +1374,7 @@ AC B
 AN LKDETR (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:43.750 N 017:07.080 E
+V X=49:43.750 N 017:07.090 E
 DC 1 *NM
 
 AC B
@@ -1402,14 +1388,14 @@ AC B
 AN LKDRUZ (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:43.680 N 014:55.480 E
+V X=50:43.690 N 014:55.480 E
 DC 1 *NM
 
 AC B
 AN LKDUSN (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:24.770 N 014:11.880 E
+V X=50:24.770 N 014:11.890 E
 DC 1 *NM
 
 AC B
@@ -1423,14 +1409,14 @@ AC B
 AN LKHATH (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:56.990 N 018:15.880 E
+V X=49:57.000 N 018:15.880 E
 DC 1 *NM
 
 AC B
 AN LKHRAD (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:37.170 N 014:43.970 E
+V X=50:37.160 N 014:43.970 E
 DC 1 *NM
 
 AC B
@@ -1462,6 +1448,20 @@ V X=49:52.250 N 012:46.430 E
 DC 1 *NM
 
 AC B
+AN LKKRPY (plocha SLZ)
+AL SFC
+AH SFC
+V X=50:19.650 N 014:39.820 E
+DC 1 *NM
+
+AC B
+AN LKKUNE (plocha SLZ)
+AL SFC
+AH SFC
+V X=50:04.100 N 015:48.730 E
+DC 1 *NM
+
+AC B
 AN LKKVAS (plocha SLZ)
 AL SFC
 AH SFC
@@ -1479,14 +1479,14 @@ AC B
 AN LKLIBA (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:22.230 N 015:12.070 E
+V X=50:22.240 N 015:12.070 E
 DC 1 *NM
 
 AC B
 AN LKLOMN (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:32.400 N 015:23.280 E
+V X=50:32.400 N 015:23.290 E
 DC 1 *NM
 
 AC B
@@ -1528,21 +1528,21 @@ AC B
 AN LKMIST (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:39.160 N 018:20.750 E
+V X=49:39.170 N 018:20.750 E
 DC 1 *NM
 
 AC B
 AN LKMLAD (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:14.620 N 014:51.330 E
+V X=50:14.620 N 014:51.340 E
 DC 1 *NM
 
 AC B
 AN LKNACH (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:24.780 N 016:07.300 E
+V X=50:24.790 N 016:07.300 E
 DC 1 *NM
 
 AC B
@@ -1570,7 +1570,7 @@ AC B
 AN LKOPAV (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:56.430 N 017:59.170 E
+V X=49:56.440 N 017:59.170 E
 DC 1 *NM
 
 AC B
@@ -1591,28 +1591,28 @@ AC B
 AN LKPAVL (plocha SLZ)
 AL SFC
 AH SFC
-V X=48:52.830 N 016:49.500 E
+V X=48:52.840 N 016:49.500 E
 DC 1 *NM
 
 AC B
 AN LKPISK (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:20.370 N 014:06.830 E
+V X=49:20.360 N 014:06.830 E
 DC 1 *NM
 
 AC B
 AN LKPOCA (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:25.080 N 014:23.050 E
+V X=50:25.090 N 014:23.050 E
 DC 1 *NM
 
 AC B
 AN LKPRIM (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:13.770 N 015:42.220 E
+V X=50:13.760 N 015:42.220 E
 DC 1 *NM
 
 AC B
@@ -1640,28 +1640,28 @@ AC B
 AN Zlín Štípa (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:16.360 N 017:44.780 E
+V X=49:16.370 N 017:44.780 E
 DC 1 *NM
 
 AC B
 AN LKSTRZ (plocha SLZ)
 AL SFC
 AH SFC
-V X=48:53.270 N 017:17.670 E
+V X=48:53.270 N 017:17.660 E
 DC 1 *NM
 
 AC B
 AN LKTEPL (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:37.250 N 013:48.630 E
+V X=50:37.250 N 013:48.640 E
 DC 1 *NM
 
 AC B
 AN LKTERE (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:31.170 N 014:09.350 E
+V X=50:31.160 N 014:09.350 E
 DC 1 *NM
 
 AC B
@@ -1675,11 +1675,11 @@ AC B
 AN LKVRAT (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:02.380 N 014:49.320 E
+V X=50:02.380 N 014:49.310 E
 DC 1 *NM
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around SLZneg
 
@@ -1691,17 +1691,24 @@ V X=48:59.010 N 017:42.270 E
 DC 1 *NM
 
 AC B
+AN Bobrová (plocha SLZ)
+AL SFC
+AH SFC
+V X=49:29.730 N 016:06.120 E
+DC 1 *NM
+
+AC B
 AN Bojkovice (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:01.810 N 017:49.030 E
+V X=49:01.820 N 017:49.030 E
 DC 1 *NM
 
 AC B
 AN Boleradice (plocha SLZ)
 AL SFC
 AH SFC
-V X=48:57.720 N 016:49.900 E
+V X=48:57.710 N 016:49.900 E
 DC 1 *NM
 
 AC B
@@ -1715,7 +1722,7 @@ AC B
 AN Borovník (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:21.520 N 016:14.530 E
+V X=49:21.480 N 016:14.580 E
 DC 1 *NM
 
 AC B
@@ -1726,10 +1733,10 @@ V X=49:03.080 N 017:22.050 E
 DC 1 *NM
 
 AC B
-AN Březí (plocha SLZ)
+AN Březí Falcon (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:20.330 N 016:13.890 E
+V X=49:20.290 N 016:13.970 E
 DC 1 *NM
 
 AC B
@@ -1743,7 +1750,7 @@ AC B
 AN Český Dub (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:40.680 N 014:59.980 E
+V X=50:40.680 N 014:59.990 E
 DC 1 *NM
 
 AC B
@@ -1751,13 +1758,6 @@ AN Česká Třebová (plocha SLZ)
 AL SFC
 AH SFC
 V X=49:54.600 N 016:27.320 E
-DC 1 *NM
-
-AC B
-AN Dačice (plocha SLZ)
-AL SFC
-AH SFC
-V X=49:04.200 N 015:27.350 E
 DC 1 *NM
 
 AC B
@@ -1799,35 +1799,28 @@ AC B
 AN Jiřičky (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:33.130 N 015:09.330 E
+V X=49:33.130 N 015:09.340 E
 DC 1 *NM
 
 AC B
 AN Kaplice (plocha SLZ)
 AL SFC
 AH SFC
-V X=48:43.120 N 014:27.030 E
+V X=48:43.120 N 014:27.040 E
 DC 1 *NM
 
 AC B
 AN Košice u Tábora (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:19.080 N 014:44.950 E
+V X=49:19.090 N 014:44.950 E
 DC 1 *NM
 
 AC B
 AN Kraví hora (plocha SLZ)
 AL SFC
 AH SFC
-V X=48:55.020 N 016:50.480 E
-DC 1 *NM
-
-AC B
-AN Kunětice (plocha SLZ)
-AL SFC
-AH SFC
-V X=50:04.090 N 015:48.740 E
+V X=48:55.010 N 016:50.480 E
 DC 1 *NM
 
 AC B
@@ -1841,21 +1834,21 @@ AC B
 AN Lochousice  (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:40.490 N 013:05.970 E
+V X=49:40.490 N 013:05.960 E
 DC 1 *NM
 
 AC B
 AN Moravský Beroun (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:47.160 N 017:29.170 E
+V X=49:47.170 N 017:29.170 E
 DC 1 *NM
 
 AC B
 AN Zvole Western (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:28.900 N 016:10.380 E
+V X=49:28.900 N 016:10.390 E
 DC 1 *NM
 
 AC B
@@ -1904,21 +1897,21 @@ AC B
 AN Říčany (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:58.470 N 014:38.990 E
+V X=49:58.460 N 014:38.990 E
 DC 1 *NM
 
 AC B
 AN Rohozec (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:58.920 N 015:23.570 E
+V X=49:58.910 N 015:23.570 E
 DC 1 *NM
 
 AC B
 AN Sázava (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:53.270 N 014:56.370 E
+V X=49:53.270 N 014:56.360 E
 DC 1 *NM
 
 AC B
@@ -1932,35 +1925,35 @@ AC B
 AN Sedliště (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:43.320 N 018:22.490 E
+V X=49:43.330 N 018:22.490 E
 DC 1 *NM
 
 AC B
 AN Škudly (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:01.320 N 015:31.230 E
+V X=50:01.310 N 015:31.240 E
 DC 1 *NM
 
 AC B
 AN Studenec (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:32.970 N 015:32.170 E
+V X=50:32.960 N 015:32.170 E
 DC 1 *NM
 
 AC B
 AN Šumvald (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:50.730 N 017:08.280 E
+V X=49:50.740 N 017:08.290 E
 DC 1 *NM
 
 AC B
 AN Třebíč (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:11.900 N 015:54.180 E
+V X=49:11.900 N 015:54.190 E
 DC 1 *NM
 
 AC B
@@ -1974,7 +1967,7 @@ AC B
 AN Veselí u Přelouče (plocha SLZ)
 AL SFC
 AH SFC
-V X=50:00.420 N 015:37.070 E
+V X=50:00.410 N 015:37.070 E
 DC 1 *NM
 
 AC B
@@ -1995,16 +1988,16 @@ AC B
 AN Želeč (plocha SLZ)
 AL SFC
 AH SFC
-V X=49:19.830 N 014:39.540 E
+V X=49:19.840 N 014:39.550 E
 DC 1 *NM
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around VFR
 
 ***** CZ (LKAA) Airspace file **********
-***** Effective 16JUL20 ***************
+***** Effective 01JUL21 ***************
 
 * This file contains areas around VOR
 
