@@ -88,6 +88,6 @@
 ## Změny
 
 * 07.08.2020 - první vydání
-* 06.05.2021 - aktualizace bodů a informací dle AisView,
+* 06.05.2021 - aktualizace bodů a informací dle AisView platných od 20.5.2021,
              - vzdušné prostory CZ 25FEB21 (Petr Koutný)
              - vzdušné prostory SK 2021 (Ján Hrnčírik)

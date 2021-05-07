@@ -161,9 +161,9 @@ Radio: 122.610 KRNOV RADIO
 Radio: 122.210 KLATOVY RADIO
 
 [KUNOVICE LKKU=HOME]
-02C/20C (zpevněný)
-02R/20L (nezpevněný)
-02L/20R (nezpevněný)
+02C/20C (beton)
+02R/20L (tráva)
+02L/20R (tráva)
 TWR: 120.105 KUNOVICE VĚŽ
  TOWER
 Info: 120.105 KUNOVICE INFO
@@ -762,7 +762,7 @@ Neveřejná plocha SLZ
 17/35 (tráva)
 Radio: 125,830 LOUČEŇ
 
-[Luhacovice LKLUHA]
+[Luhacovice LKLU]
 Lety výhradně PPR!
 Okruh min. ALT 2200/1000AGL
 ! Asfaltová plocha NENÍ určena pro provoz letadel
