@@ -1,4 +1,6 @@
-﻿# Data LK8000 pro CZ piloty (kluzáky i letouny)
+﻿[//]: # (coding:utf-8)
+
+# Data LK8000 pro CZ piloty (kluzáky i letouny)
 
 --------------------------------------------------------------------------------
 
@@ -9,17 +11,32 @@
 ## Mapy
 
 * Soubory map jsou velké - určené pro telefony s Androidem (na starých PDA nebudou fungovat)
-* Mapy jsou vytvořené z OpenStreetMap, licence k datům dle "Open Data Commons
-  Open Database License", viz <https://www.openstreetmap.org/copyright>
+* Mapy jsou vytvořené z OpenStreetMap podkladů
 
 <!-- -->
 
+* `_Maps/*.lkm` jsou topologie (řeky, silnice, koleje, města, vodní plochy, lesy)
+    * Oproti automaticky generovaným souborům dostupným na internetu tento soubor:
+      * věrněji zobrazuje zastavěné plochy měst
+      * přesněji zobrazuje silnice a koleje apod.
+      * zobrazuje lesní plochy a nadzemní elektrické vedení
+    * Města jsou ve vrstvách
+      * _Velká města_
+      * _Střední města_
+      * _Malá města_ - pro tuto vrstvu doporučuji nastavit _Úroveň přiblížení = **3.0**_
+    * Vrstva **nadzemní elektrické vedení**
+      * Používá nastavení vrstvy _**Menší města**_.
+      * Pro tuto vrstvu doporučuji nastavit _Úroveň přiblížení Menší města = **0.5**_
+    * Vrstva **lesní plochy** je zobrazena šrafovaně.
+      * Nastavení _Úrovně přiblížení_ sdílí s vrstvou _Střední města_.
+    * Vrstva **názvy vodních ploch**.
+      * Nastavení _Úrovně přiblížení_ sdílí s vrstvou _Malá města_.
+    * _Úroveň přiblížení_ se pro vrstvy nastavuje v LK8000 v nabídce:
+      _Nastavení 2/3 => Nastavení LK8000 => Nastavení systému Nastavení 4 Zobrazení Terénu => Nastavit topologii_
+    * Další nastavení vrstvev (změna barev, schování vrstvy) je možné ruční úpravou souboru `topology.tpl`.
+      Soubor `.lkm` je `.zip` archív a v něm se nachází `topology.tpl`.
 * `_Maps/*.dem` je topografie území, tj. výšky terénu
     * číslo `100m`, `200m` v názvu označuje rozlišení (přesnost)
-* `_Maps/*.lkm` jsou topologie (řeky, silnice, koleje, města)
-    * Oproti automaticky generovaným souborům dostupným na internetu je tento
-      soubor upraven tak, aby lépe zobrazoval zastavěné plochy měst, přesněji
-      zobrazoval silnice a koleje apod.
 
 
 ## Vzdušné prostory
@@ -45,7 +62,7 @@
 * Soubory jsou připraveny tak, aby byly na mapě body zobrazeny vhodným názvem s diakritikou
   ale aby šlo vyhledávat podle celého názvu bez diakritky (v LK8000 nelze zadávat diakritiku)
 * V LK8000 **nastavit zobrazení waypoints pomocí ICAO kódu**
-  (systémová nastavení č. `3 Zobrazení mapy`, `Názvy` = `ICAO Code`)
+  (systémová nastavení č. `3 Zobrazení mapy`, `Značky` = `ICAO Code`)
 * Soubory obsahují i některé body pro Slovensko
 
 <!-- -->
@@ -71,6 +88,15 @@
     * DME/VOR/NDB majáky - na mapě označeny identifikačním kódem
 
 
+## Instalace do zařízení Android
+
+* Datové soubory _LK8000_ jsou uloženy ve složce telefonu
+  `Interní paměť/Android/data/org.lk8000/files`
+* Datové soubory _LK8000 **Beta**_ jsou uloženy ve složce telefonu
+  `Interní paměť/Android/data/org.lk8000.test/files`
+* Datové soubory z toho balíku nakopírovat do příslušných podsložek
+  `_Airspaces`, `_Maps`, `_Waypoints`.
+
 --------------------------------------------------------------------------------
 
 ## Licence
@@ -81,13 +107,16 @@
 
 ## Statistika stažení
 
-* [1](https://hanadigital.github.io/grev/?user=peclik&repo=LK8000-data)
-* [2](https://somsubhra.com/github-release-stats/?username=peclik&repository=LK8000-data)
-
+* [1](https://tooomm.github.io/github-release-stats/?username=peclik&repository=LK8000-data)
 
 ## Změny
 
-* 07.08.2020 - první vydání
-* 06.05.2021 - aktualizace bodů a informací dle AisView platných od 20.5.2021,
-             - vzdušné prostory CZ 25FEB21 (Petr Koutný)
-             - vzdušné prostory SK 6.5.2021 2021 (Ján Hrnčírik)
+* 15.02.2025
+  * Aktualizace .lkm
+  * Přidány vrstvy lesů a nadzemního elektrického vedení
+* 06.05.2021
+  * Aktualizace bodů a informací dle AisView platných od 20.5.2021,
+  * Vzdušné prostory CZ 25FEB21 (Petr Koutný)
+  * Vzdušné prostory SK 6.5.2021 2021 (Ján Hrnčírik)
+* 07.08.2020
+  * První vydání
